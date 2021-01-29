@@ -1,0 +1,51 @@
+@charset "UTF-8";
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+body{
+	background-color : #FBF8EF;
+	font-family: 'Nanum Gothic', sans-serif;
+}
+.board_write_table{
+	text-align : center;
+	border : 1px solid #F8ECE0;
+	width : 70%;
+	height : 100%;
+}
+#title{
+	width : 155px;
+	height : 40px;
+	text-align : center;
+	background-color : #F8ECE0;
+}
+#title2{
+	width : 155px;
+	height : 40px;
+}
+#select_ct{
+	background-color :#FBF8EF;
+	border : none;
+	width : 150px;
+	text-align : center;
+}
+#subject{
+	width : 100%;
+}
+#content{
+	width : 100%;
+}
+.update-wrap{
+	text-align : center;
+}
+#update-btn{
+	dispaly : inline-block;
+	width : 100px;
+	height : 40px;
+	align : center;
+	background-color : #FBF8EF;
+	border : 3px solid #F8ECE0;
+	border-radius : 50px;
+	margin : 15px 10px;
+}

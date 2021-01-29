@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+.event-info{
+	width : 100%;
+	text-align : center;
+}
+#event-btn{
+	dispaly : inline-block;
+	width : 100px;
+	height : 40px;
+	align : center;
+	background-color : #FBF8EF;
+	border : 3px solid #F8ECE0;
+	border-radius : 50px;
+	margin : 15px 10px;
+}
+.event-list{
+	text-align : center;
+	margin-top : 50px;
+}
+#event-item{
+	display : inline-block;
+	width : 40%;
+	height : 40%;
+	margin : 30px;
+}
+
+/* 이벤트 목록 전체 조회 css */
+.table{
+	text-align : center;
+	width : 80%;
+	height : 80%;
+}
+#event-list-kind{
+	height : 40px;
+	background-color : #F8ECE0;
+}

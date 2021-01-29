@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.list-wrap{
+	text-align : center;
+	margin-top : 60px;
+}
+.list-item{
+	display : inline-block;
+	float : left;
+	text-align : center;
+}
+#list-img{
+	width : 300px;
+	height : 300px;
+	padding-left : 60px;
+}

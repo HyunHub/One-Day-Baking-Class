@@ -1,0 +1,61 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+	body{
+		/* background-color : #FBF8EF; */
+		font-family: 'Nanum Gothic', sans-serif;
+	}
+	#wrap {
+		width: 100%;
+		margin: 0 auto 0 auto;
+	}
+	#topForm{
+		text-align : center;
+	}
+	#board, #pageForm, #searchForm{
+		text-align : center;
+	}
+	.table{
+		width: 80%;
+		height : 100%;
+	}
+	#item1{
+		width : 20px;
+	}
+	#item2{
+		width : 50px;
+	}
+	#list_kind{
+		height : 40px;
+		background-color : #F8ECE0;
+	}
+	#list_con{
+		height : 40px;
+	}
+	a{
+		color : black;
+	}
+	.topForm{
+		text-align : center;
+	}
+	#list-btn1{
+		dispaly : inline-block;
+		width : 100px;
+		height : 40px;
+		align : center;
+		background-color : #FBF8EF;
+		border : 3px solid #F8ECE0;
+		border-radius : 50px;
+		padding-left : 5px;
+	}
+	#list-btn2{
+		dispaly : inline-block;
+		width : 130px;
+		height : 40px;
+		align : center;
+		background-color : #FBF8EF;
+		border : 3px solid #F8ECE0;
+		border-radius : 50px;
+	}

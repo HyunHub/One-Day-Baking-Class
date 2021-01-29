@@ -1,0 +1,78 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+#wrap {
+	width: 100%;
+	margin: 0 auto 0 auto;	
+	}
+.board_detail_table{
+	text-align : center;
+	border : 1px solid #F8ECE0;
+	width : 80%;
+	height : 100%;
+	}
+#title{
+	width : 20%;
+	height : 40px;
+	text-align : center;
+	background-color : #F8ECE0;
+}
+#img_cnt{
+	width : 50%;
+	height : 50%;
+}
+.detail-wrap{
+	text-align : center;
+}
+#detail-btn{
+	dispaly : inline-block;
+	width : 100px;
+	height : 40px;
+	align : center;
+	background-color : #FBF8EF;
+	border : 3px solid #F8ECE0;
+	border-radius : 50px;
+	margin : 15px 10px;
+}
+#qna-title{
+	width : 150px;
+	height : 40px;
+	text-align : center;
+	background-color : #F8ECE0;
+}
+#qna-cont{
+	width : 150px;
+	height : 40px;
+	text-align : center;
+}
+.comment{
+	text-align : center;
+	width : 100%;
+	margin: 0 auto 0 auto;
+}
+#cm_cnt{
+	width : 600px;
+	height : 50px;
+	border-bottom : 2px solid #FBF8EF;
+	
+}
+#cm_id{
+	text-align : none;
+	padding-left : 70px;
+	padding-right : 0px;
+	border-bottom : 2px solid #FBF8EF;
+}
+#cm_reply{
+	width : 150px;
+	border-bottom : 2px solid #FBF8EF;
+}
+#cnt-btn{
+	background-color : #F8ECE0;
+	border : none;
+	font-size : 13px;
+}
+a{
+	text-decoration : none;
+}
