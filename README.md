@@ -25,6 +25,6 @@
 * HTML CSS JAVASCRIPT
 * BOOTSTRAP
 
-![classmain](https://user-images.githubusercontent.com/71003577/111728914-3bdf2200-88b1-11eb-848d-712db53b40a3.png)
-![shoppingmain](https://user-images.githubusercontent.com/71003577/111729051-806abd80-88b1-11eb-9406-117fd07d656f.png)
-![shoppingcart](https://user-images.githubusercontent.com/71003577/111728654-a8a5ec80-88b0-11eb-87cb-d5197a707c1f.png)
+![classmain](https://user-images.githubusercontent.com/71003577/111729280-0e46a880-88b2-11eb-952b-ad00548db33d.png)
+![shoppingmain](https://user-images.githubusercontent.com/71003577/111729293-11da2f80-88b2-11eb-9cff-ac342fc98b2f.png)
+![shoppingcart](https://user-images.githubusercontent.com/71003577/111729294-13a3f300-88b2-11eb-9051-0123c0963a00.png)
