@@ -8,8 +8,9 @@
 3. View booking information on MyPage tap
 4. Cancle the booking
 5. Check our new news on Notice tap
-6. Review the class and see other people's reviews
+6. Review the class and see other people's reviews on Review tap
 7. View the Events that we are holding on Event tap 
+8. Q&A tap
 
 -- We also provide the shopping mall that have things associated with the class
 
