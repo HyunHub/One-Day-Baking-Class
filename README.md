@@ -8,6 +8,7 @@
 3. You can view booking information on MyPage tap
 4. You can cancle the booking
 5. You can check our new news on Notice tap
+6. You can review the class and see other people's reviews
 
 -- We also provide the shopping mall that have things associated with the class
 
