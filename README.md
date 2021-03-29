@@ -27,7 +27,6 @@
 * BOOTSTRAP
 
 
-
 ![classmain](https://user-images.githubusercontent.com/71003577/111729280-0e46a880-88b2-11eb-952b-ad00548db33d.png)
 ![q_n](https://user-images.githubusercontent.com/71003577/111729654-dbe97b00-88b2-11eb-8a09-027236d8533b.png)
 ![shoppingmain0](https://user-images.githubusercontent.com/71003577/111729697-01768480-88b3-11eb-9a26-d945e0137f08.png)
