@@ -1,7 +1,5 @@
 # One-Day Baking Class
 ## Baking Class Booking Website
-
-
 ## How To Use
 1. You should sign up & log in our website
 2. Choose the one-day class that you want to join and fill in the information
